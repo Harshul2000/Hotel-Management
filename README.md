@@ -11,4 +11,4 @@ This ia a sim
 
 ## Code 
 
-* [Code](code/code)
+* [Code](code)
